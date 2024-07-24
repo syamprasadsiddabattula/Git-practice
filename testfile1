@@ -1,0 +1,31 @@
+what is devops...?
+-----------------------
+
+DevOps is a set of practices, principles, and cultural philosophies that aim to improve collaboration and efficiency between software development (Dev) and IT operations (Ops) teams. The main goal of DevOps is to shorten the software development lifecycle and provide continuous delivery with high software quality.
+
+Key Concepts and Practices in DevOps
+Collaboration and Communication:
+
+Breaks down silos between development and operations teams.
+Promotes a culture of shared responsibility and transparency.
+Continuous Integration (CI):
+
+Developers frequently integrate code changes into a shared repository.
+Automated build and test processes run every time code is committed, catching issues early.
+Continuous Delivery (CD):
+
+Extends CI by ensuring that code changes are automatically prepared for a release to production.
+Automates the release process so that deployments can be made frequently and reliably.
+Continuous Deployment:
+
+Further extends CD by automatically deploying every code change that passes the automated tests to production.
+Ensures the software is always in a deployable state.
+Infrastructure as Code (IaC):
+
+Managing and provisioning computing infrastructure through machine-readable configuration files, rather than physical hardware configuration or interactive configuration tools.
+Tools like Terraform, AWS CloudFormation, and Ansible are commonly used.
+Monitoring and Logging:
+
+Continuously monitor applications and infrastructure to identify issues in real-time.
+Logging and monitoring tools (e.g., Prometheus, Grafana, ELK stack) provide insights into system health and performance.
+
